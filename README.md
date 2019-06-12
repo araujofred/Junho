@@ -2,9 +2,8 @@
 <html>
   <head>
   <style>
-    p {
-        color: red;
-    }
+    p {color: red;}
+    
   </style>
   </head>
   
