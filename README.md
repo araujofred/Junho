@@ -14,7 +14,7 @@
   <h1>Mês que fecha o primeiro semestre do ano</h1>
   <ul>
     <li><a href="https://www.festajunina.com.br/festa-junina/">Festas Juninas</a></li>
-    <li>Dia mundial do meio ambiente</li>
+    <li><a href="https://educacao.uol.com.br/datas-comemorativas/0605---dia-mundial-do-meio-ambiente-e-ecologia.htm">Dia mundial do meio ambiente</a></li>
     <li>Dia internacional do aperto de mão</li>
     <li>Dia do cinema brasileiro</li>
     <li>Dia da marinha</li>
