@@ -21,10 +21,6 @@
     <li>Dia olímpico</li>
     <li>Dia do quimico</li>
   </ul>
-  
-  
   </body>
-
-
 </html>
   
