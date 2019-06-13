@@ -5,7 +5,9 @@
     background-image: url("https://www.welovesolo.com/wp-content/uploads/2016/11/05retmvpt1r5i43.jpg");
     background-attachment: scroll;
     h1 {color: green};
-    ul {list-style-color: white};
+    ul {list-style-color: white;
+        list-style-type: none;
+       };
     }
   </style>
   </head>
