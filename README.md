@@ -15,11 +15,11 @@
   <ul>
     <li><a href="https://www.festajunina.com.br/festa-junina/">Festas Juninas</a></li>
     <li><a href="https://educacao.uol.com.br/datas-comemorativas/0605---dia-mundial-do-meio-ambiente-e-ecologia.htm">Dia mundial do meio ambiente</a></li>
-    <li>Dia internacional do aperto de mão</li>
-    <li>Dia do cinema brasileiro</li>
-    <li>Dia da marinha</li>
-    <li>Dia olímpico</li>
-    <li>Dia do quimico</li>
+    <li><a href="https://www.sitedecuriosidades.com/curiosidade/origem-do-aperto-de-mao.html">Dia internacional do aperto de mão</a></li>
+    <li><a href="http://www.cinefilosanonimos.com.br/19-de-junho-dia-do-cinema-brasileiro/">Dia do cinema brasileiro</a></li>
+    <li><a href="https://www.marinha.mil.br/">Dia da marinha</a></li>
+    <li><a href="https://youtu.be/qCGkzhmR-Rk">Dia olímpico</a></li>
+    <li><a href="https://www.portalsaofrancisco.com.br/calendario-comemorativo/dia-do-quimico">Dia do quimico</a></li>
   </ul>
   </body>
 </html>
