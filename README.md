@@ -4,10 +4,9 @@
    body{
     background-image: url("http://anglobauru.com.br/wp-content/uploads/2017/06/bigstock-146831618.jpg");
     background-attachment: scroll;
+    h1 {color: green};
+    ul {list-style-color : white};
     }
-   p {color: red;}
-    h1 {color:green;}
-    
   </style>
   </head>
   
@@ -21,7 +20,7 @@
     <li>Dia da marinha</li>
     <li>Dia olímpico</li>
     <li>Dia do quimico</li>
-  
+  </ul>
   
   
   </body>
