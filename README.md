@@ -5,7 +5,7 @@
     background-image: url("http://anglobauru.com.br/wp-content/uploads/2017/06/bigstock-146831618.jpg");
     background-attachment: scroll;
     h1 {color: green};
-    ul {list-style-color : white};
+    ul {list-style-color: white};
     }
   </style>
   </head>
