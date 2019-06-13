@@ -1,7 +1,10 @@
 <html>
   <head>
   <style>
-   body {background-image: url("http://anglobauru.com.br/wp-content/uploads/2017/06/bigstock-146831618.jpg");}
+   body{
+    background-image: url("http://anglobauru.com.br/wp-content/uploads/2017/06/bigstock-146831618.jpg");
+    background-attachment: scroll;
+    }
    p {color: red;}
     h1 {color:green;}
     
